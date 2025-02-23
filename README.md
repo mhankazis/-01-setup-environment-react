@@ -2,13 +2,15 @@
 1. Jelaskan kegunaan masing-masing dari Git, VS Code dan NodeJS yang telah Anda install pada sesi praktikum ini!
 A. Git
 Git adalah sistem kontrol versi yang memungkinkan developer melacak perubahan kode, berkolaborasi dengan tim, dan mengelola cabang (branch) untuk fitur baru.
+
 B. VS Code
 VS Code adalah Source code editor yang kuat dengan dukungan untuk berbagai bahasa pemrograman, fitur debugging, saran otomatis (IntelliSense), dan integrasi langsung dengan Git.
+
 C. Node.js
 Runtime JavaScript yang memungkinkan pengembangan aplikasi backend, mendukung pemrosesan asinkron, dan memiliki ekosistem paket NPM untuk mempercepat pengembangan aplikasi.
 
 2. Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
-![Proof](https://drive.google.com/file/d/1t-K1iUU3tjrnba262u7Pv9extwFnoTfE/view?usp=sharing)
+https://drive.google.com/file/d/1t-K1iUU3tjrnba262u7Pv9extwFnoTfE/view?usp=sharing
 
 
 **Pertanyaan Praktikum 2**
@@ -52,16 +54,16 @@ I. page.tsx
 File ini berisi komponen halaman utama aplikasi. Ini adalah titik masuk untuk merender konten halaman.
 
 3. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
-![Proof1](https://drive.google.com/file/d/1DFGHjf5HMn0RJf_4zg-b0JWmoYklRTuc/view?usp=sharing)
-![Proof2](https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing)
+https://drive.google.com/file/d/1DFGHjf5HMn0RJf_4zg-b0JWmoYklRTuc/view?usp=sharing
+https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing
 
 **Pertanyaan Praktikum 3**
 1. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
-![Proof](https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing)
+https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing
 
 **Pertanyaan Praktikum 4**
 1. Untuk apakah kegunaan sintaks user.imageUrl?
 untuk mengakses URL gambar profil pengguna.
 
 2. Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
-![Proof](https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing)
+https://drive.google.com/file/d/1_sWl1xQYgaLuu8JX4fK-xAxDMHmX_4-Q/view?usp=sharing
